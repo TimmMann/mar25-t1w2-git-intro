@@ -3,23 +3,20 @@
 
 ## Live Demo
 
-- https://tourmaline-pasca-1729c9.netlify.app/
+- https://dashing-alfajores-a5d668.netlify.app/
 
 
-## What is this website 
+## What is this website?
 
--         
--  
-- 
-- 
+- List of movies 
+- List of desserts
 
- Therefore, List of----paired with-----
+Therefore, list of desserts paired with movies 
 
 - Card component for a movie 
-- Card component for a 
-- Card component for a 
-
+- Card component for a dessert
+- Card component for a movie with a dessert 
 - Header 
-    - Navbar 
-- Footer
-- 
+	- Navbar
+- Footer 
+- Burger menu
